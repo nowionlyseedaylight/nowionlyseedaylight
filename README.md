@@ -12,7 +12,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/nhdh0070%40gmail.com-red">
 
 ### Languages and Tools
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Static Badge](https://img.shields.io/badge/raspberrypi%20-%20red) ![Static Badge](https://img.shields.io/badge/opencv%20-%20green)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) src="https://img.shields.io/badge/Raspberry Pi-C51A4A?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a> ![Static Badge](https://img.shields.io/badge/opencv%20-%20green)
 
 
 
