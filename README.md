@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## Hello! I'm NA-HYUN / BELLA
+🌿 My major is AI & biomedical engineering.
+🌿 I'm a person who strongly believe in being driven by the combination of purpose and passion.
+🔭 I’m currently working on the projects on LLM application. 
+
+### 📫 How to reach me
+<img alt="Static Badge" src="https://img.shields.io/badge/nhdh0070%40gmail.com-red">
 <!--
 **nowionlyseedaylight/nowionlyseedaylight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
