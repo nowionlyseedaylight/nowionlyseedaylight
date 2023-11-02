@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Hello! I'm NA-HYUN / BELLA
-🌿 My major is AI & biomedical engineering.
+🌿 My major is AI & Biomedical engineering.
 
 🌿 I'm a person who strongly believe in being driven by the combination of purpose and passion.
 
