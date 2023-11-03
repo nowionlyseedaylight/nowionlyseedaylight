@@ -5,7 +5,7 @@
 
 🌿 I'm a person who strongly believe in being driven by the combination of purpose and passion.
 
-🔭 I’m currently working on the projects on LLM application. 
+🔭 I’m currently working on the projects on LLM application. You can also find my recent projects and study records in the repositories.
 
 
 ### 📫 How to reach me
