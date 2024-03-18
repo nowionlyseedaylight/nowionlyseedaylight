@@ -1,11 +1,13 @@
 ### Hi there 👋
 
 ## Hello! I'm NA-HYUN / BELLA
-🌿 My major is AI & Biomedical engineering.
+🌿 I'm interested in Mechanical & Biomedical engineering and their appliance to service AI.
 
 🌿 I'm a person who strongly believe in being driven by the combination of purpose and passion.
 
-🔭 I’m currently working on the projects on LLM application. You can also find my recent projects and study records in the repositories.
+🌱 I’m currently learning Reinforcement Learning and framework such as Orbit, IsaacGym, IsaacSIM.
+
+🔭 I’m currently working on the projects on Robotics (Manipulator online learning). You can also find my recent projects and study records in the repositories.
 
 
 ### 📫 How to reach me
