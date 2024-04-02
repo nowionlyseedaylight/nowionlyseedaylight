@@ -5,7 +5,7 @@
 
 🌿 I'm a person who strongly believe in being driven by the combination of purpose and passion.
 
-🌱 I’m currently learning Reinforcement Learning and framework such as Orbit, IsaacGym, IsaacSIM.
+🌱 I’m currently learning Reinforcement Learning and framework and simulator such as Orbit, IsaacGym, IsaacSIM.
 
 🔭 I’m currently working on the projects on Robotics (Manipulator online learning). You can also find my recent projects and study records in the repositories.
 
