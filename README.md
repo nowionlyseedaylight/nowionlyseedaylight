@@ -11,7 +11,7 @@
 
 
 ### 📫 How to reach me
-<img alt="Static Badge" src="https://img.shields.io/badge/nhdh0070%40gmail.com-red">
+<img alt="Static Badge" src="https://img.shields.io/badge/achieve21ct%40gmail.com-red">
 
 ### Languages and Tools
 ![Static Badge](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Static Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Static Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Static Badge](https://img.shields.io/badge/raspberrypi-red)
