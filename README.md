@@ -7,7 +7,7 @@
 
 🌱 I’m currently studying Reinforcement Learning and framework and simulator such as Orbit, IsaacGym, IsaacSIM.
 
-🔭 I’m currently working on the projects on Robotics (Manipulator online learning). You can also find my recent projects and study records in the repositories.
+🔭 I’m currently working on the projects on Robotics (Manipulator online learning). 
 
 
 ### 📫 How to reach me
