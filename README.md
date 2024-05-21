@@ -10,8 +10,8 @@
 
 🔭 I’m currently working on the projects on Robotics (Manipulator online learning).
 
-Take a closer look at the studies and projects I've been working on 
-<a href="https://silver-nectarine-bd2.notion.site/Portfolio-89287919f391414e915eb2681657fa17"> here </a> :>
+Explore my studies and projects on
+<a href="https://silver-nectarine-bd2.notion.site/Portfolio-89287919f391414e915eb2681657fa17"> this site </a> — your interest is welcome :>
 
 
 ### 📫 How to reach me
