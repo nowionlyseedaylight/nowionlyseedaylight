@@ -1,13 +1,17 @@
 ### Hi there 👋
 
 ## Hello! I'm NA-HYUN / BELLA
+
 🌿 I'm interested in Mechanical & Biomedical engineering and their appliance to service AI.
 
 🌿 I'm a person who strongly believe in being driven by the combination of purpose and passion.
 
 🌱 I’m currently studying Reinforcement Learning and framework and simulator such as Orbit, IsaacGym, IsaacSIM.
 
-🔭 I’m currently working on the projects on Robotics (Manipulator online learning). 
+🔭 I’m currently working on the projects on Robotics (Manipulator online learning).
+
+Take a closer look at the studies and projects I've been working on <A href="[http://daum.net](https://silver-nectarine-bd2.notion.site/Portfolio-89287919f391414e915eb2681657fa17)"> here </A>
+  <P> :>
 
 
 ### 📫 How to reach me
