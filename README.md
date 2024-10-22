@@ -22,7 +22,7 @@ Explore my studies and projects on
 <img alt="Static Badge" src="https://img.shields.io/badge/achieve21ct%40gmail.com-red">
 
 ### Languages and Tools
-![Static Badge](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Static Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Static Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Static Badge](https://img.shields.io/badge/raspberrypi-red)
+![Static Badge](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Static Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Static Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white ![Static Badge](https://img.shields.io/badge/raspberrypi-red)
  ![Static Badge](https://img.shields.io/badge/opencv%20-%20green)
 
 
