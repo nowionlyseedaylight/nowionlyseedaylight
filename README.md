@@ -15,6 +15,7 @@ Explore my studies and projects on
 
 ### Experiences
 ✅[Tobigs](http://www.datamarket.kr/xe/page_SKdp53) | 2024.01 ~ Present
+
 ✅[KIST Robot Vision Lab]((https://kistrobot.vision/)) | 2024.01 ~ 2024.06
 
 ### 📫 How to reach me
